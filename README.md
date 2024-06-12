@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
+ 
+Meu nome é Douglas Dias
 
-<!--
-**DouglasDias007/DouglasDias007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando no [Alura](https)
+-Estou me desenvolvendo na linguagem java script
+-Ultiliso esse espaço para minha organização e compartilhamentos dos meus projetos 
 
-Here are some ideas to get you started:
+Entre em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email:00001105536555sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/AaoyW1pRRjYAAAAC/what-dog.gif)
+
+
